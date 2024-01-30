@@ -1,0 +1,13 @@
+tipo:etanol:12000:700000.0
+tipo:diesel:5000:200.0
+tipo:extra:20000:4000.0
+tipo:biodiesel:85000:8000000.0
+surtidor:manuel jonatan:etanol:0.0:diesel:0.0:extra:0.0:biodiesel:0.0
+surtidor:diego alejandro:etanol:0.0:diesel:0.0:extra:0.0:biodiesel:0.0
+surtidor:juan david:etanol:0.0:diesel:0.0:extra:0.0:biodiesel:0.0
+surtidor:diego alejandro:etanol:0.0:diesel:0.0:extra:0.0:biodiesel:0.0
+empleado:juan carlos:0
+empleado:diego alejandro:0
+empleado:juan david:0
+empleado:manuel jonatan:0
+empleado:juan andres:0
